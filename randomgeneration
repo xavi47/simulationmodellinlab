@@ -1,0 +1,6 @@
+//random number generation
+array=rand(1,10)
+disp(array)
+
+array1=rand(1,10,"uniform")
+disp(array1)
